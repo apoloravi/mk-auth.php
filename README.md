@@ -13,4 +13,5 @@ killall -y 200h mk-auth.php
 crontab -e
 
 #BugPHP
+
 */1 * * * * sh php.sh
