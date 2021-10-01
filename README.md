@@ -8,7 +8,7 @@ cd
 
 nano php.sh
 
-killall -y 200h mk-auth.php
+killall -y 2000h mk-auth.php
 
 crontab -e
 
