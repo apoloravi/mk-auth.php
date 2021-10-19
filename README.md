@@ -15,3 +15,4 @@ crontab -e
 #BugPHP
 
 */1 * * * * sh php.sh
+#FIM
